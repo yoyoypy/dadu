@@ -1,4 +1,4 @@
 to run it
 
-composer install
+composer install<br>
 php artisan play:game
